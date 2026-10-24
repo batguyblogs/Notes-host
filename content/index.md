@@ -3,12 +3,12 @@ publish: true
 title: Welcome to my Notes!
 comments: true
 created: 2026-03-05T15:02:01.361+05:30
-modified: 2026-07-24T10:22:52.827+05:30
+modified: 2026-09-29T19:37:05.996+05:30
 cssclasses: ""
 ---
 
 
-# Here ill be uploading my notes for the benefit of all of humanity 😎
+# Here Ill Be Uploading My Notes for the Benefit of All of Humanity 😎
 
 <-- look at the explorer to go through my notes. 
 

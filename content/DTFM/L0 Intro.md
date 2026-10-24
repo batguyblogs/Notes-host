@@ -2,7 +2,7 @@
 publish: true
 comments: true
 created: 2026-07-25T10:36:15.943+05:30
-modified: 2026-07-25T10:56:44.344+05:30
+modified: 2026-09-29T19:37:42.005+05:30
 tags:
   - ClassNotes
 cssclasses: ""
@@ -12,7 +12,7 @@ cssclasses: ""
 
 ## Syllabus:
 
-- Digital twin and its architecture / iot protocols mqtt
+- Digital twin and its architecture / IoT protocols MQTT
 - data acquisition & processing systems
 - mathematical modelling
     - state space
